@@ -22,7 +22,7 @@ def run(step, args):
 
 def main():
     # Use fixed query URL
-    url = "https://gwasi.com/#q=score%3A%3E20000%20F4M%20"
+    url = "https://gwasi.com/#q=score%3A%3E3000%20F4M%20"
     print(f"ℹ️ Using GWASI query URL: {url}")
 
     # Pass the URL as an argument to scripts that need it

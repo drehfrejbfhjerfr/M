@@ -107,7 +107,7 @@ def main():
     ET.SubElement(
         channel,
         "{http://www.itunes.com/dtds/podcast-1.0.dtd}image",
-        {"href": "https://raw.githubusercontent.com/drehfrejbfhjerfr/M/refs/heads/main/Project/photo.jpg"}
+        {"href": "https://raw.githubusercontent.com/drehfrejbfhjerfr/M/refs/heads/main/photo.jpeg"}
     )
 
     # -----------------------------
